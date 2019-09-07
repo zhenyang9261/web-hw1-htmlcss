@@ -14,14 +14,15 @@ body {
 header, nav, section, aside, footer {
     background: #ebebeb;
     padding: 2em 0;
-}
-
-header {
     margin-top: 10px;
 }
 
+header {
+    
+}
+
 nav {
-  margin-top: 10px;
+  
 }
 
 .flexbox {
@@ -35,7 +36,7 @@ nav {
 section {
   float: left;
   width: 495px;
-  margin: 0 20px 0 0;
+  margin-right: 20px;
 }
 
 article {
