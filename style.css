@@ -17,14 +17,6 @@ header, nav, section, aside, footer {
     margin-top: 10px;
 }
 
-header {
-    
-}
-
-nav {
-  
-}
-
 .flexbox {
   display: -webkit-flex;
   display: flex;
@@ -50,7 +42,7 @@ h1 {
   color: #777;
   background: #ebebeb;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.0em;
   padding: 0.8em 0;
   margin: 10px;
 }
